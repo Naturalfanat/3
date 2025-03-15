@@ -1,0 +1,99 @@
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container2 {
+    background-color: rgb(244, 247, 249);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 100px;
+    text-align: center;
+}
+
+.description {
+    margin: 50px 50px 0px 120px;
+    display: flex;
+
+}
+
+.description_txt {
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.h_txt {
+    color: gray;
+    font-size: 14px;
+}
+
+.description p {
+    font-size: 20px;
+}
+
+.description h2 {
+    width: 380px;
+    font-size: 30px;
+}
+
+.description img {
+    width: 600px;
+}
+
+.companii {
+    display: flex;
+    justify-content: space-around;
+}
+
+.companii img {
+    width: 120px;
+    margin-top: 70px;
+}
+
+.container2 h1 {
+    font-size: 40px;
+}
+
+.container2 p {
+    width: 600px;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.target{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.target_mini{
+    padding: 20px;
+    width: 340px;
+    height: 400px;
+    margin:20px;
+    border-radius: 10px;
+    background-color: white;   
+    
+}
+
+.target_mini img {
+    padding-left: 40px;
+}
+
+.target_mini p {
+    width: 300px;
+    font-size: 20px;
+}
+
+.target_mini h2 {
+    padding: 20px;
+    font-size: 30px;
+}
